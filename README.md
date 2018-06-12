@@ -109,7 +109,7 @@ If you take on a job or responsibility, especially a difficult one, you accept i
   * 2) To relay television or radio signals means to send them or broadcast them
   * 3) A relay is a piece of equipment that receives television or radio signals from one place and sends them to another
   * 4) If you relay something that has been said to you, you repeat it to another person
-- [**LAY:**](https://github.com/Yuxi-Ruby/DailyWords/blob/master/words/LAY.md)
+- [**LAY:**](https://github.com/Yuxi-Ruby/DailyWords/blob/master/words/LAY.md) click to see all meanings
 - [**LEERY**]()
   * On one's guard; wary; suspicious
   * Knowing or sly
