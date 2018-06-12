@@ -28,6 +28,3 @@
 E.g. 
   * I wouldn't lay bets on his still remaining manager after the spring. 
   * Synonyms: bet, stake, venture, gamble   More Synonyms of lay
-- Verb :To lay someone means to have sex with them.
-- countable noun
-  * Lay is used in expressions such a good lay or an easy lay to describe what someone is like as a sexual partner.
