@@ -3,7 +3,7 @@
 compilation of all Daily words, given us by [Veronica](http://github.com/vlondonoo1) 
 
 ## Words
-- [**HAND IN:**]() If you are preparing a report or an analysis for your boss, you have to hand it in, in other words, give it to your boss
+- [**HAND IN:**](https://github.com/Yuxi-Ruby/DailyWords/blob/master/words/HAND_IN.md) If you are preparing a report or an analysis for your boss, you have to hand it in, in other words, give it to your boss
 - [**CARRY OUT:**]() This is a formal way to say “do”, others synonyms are perform and conduct.
 - [**GET AHEAD:**]() If you get ahead you have planned for the next few days or next week. You’ve planned, you’ve scheduled and you are prepared for what is coming
   * To advance or attain success
@@ -109,7 +109,7 @@ If you take on a job or responsibility, especially a difficult one, you accept i
   * 2) To relay television or radio signals means to send them or broadcast them
   * 3) A relay is a piece of equipment that receives television or radio signals from one place and sends them to another
   * 4) If you relay something that has been said to you, you repeat it to another person
-- [**LAY:**]()
+- [**LAY:**](https://github.com/Yuxi-Ruby/DailyWords/blob/master/words/LAY.md)
 - [**LEERY**]()
   * On one's guard; wary; suspicious
   * Knowing or sly
