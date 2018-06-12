@@ -68,11 +68,11 @@ If you take on a job or responsibility, especially a difficult one, you accept i
   * 3) A relay is a piece of equipment that receives television or radio signals from one place and sends them to another
   * 4) If you relay something that has been said to you, you repeat it to another person
 - [**LAY:**]()
-- [**LEERY**]
+- [**LEERY**]()
   * On one's guard; wary; suspicious
   * Knowing or sly
   * rowdy or boisterous
-- [**SEIZE**] 
+- [**SEIZE**]()
   * To take forcible legal possession of; confiscate or to seize contraband
   * To take forcibly and quickly; grab
   * To take hold of suddenly or forcibly, with or as with the hand; clutch
@@ -80,6 +80,45 @@ If you take on a job or responsibility, especially a difficult one, you accept i
   * To take quick advantage of (an opportunity, etc.) 
   * To attack or afflict suddenly or severely
 
+- [**NAG**]()
+  * To annoy by continual scolding, faultfinding, complaining, urging, etc.
+  * To keep troubling, worrying, etc.
+  * To urge, scold, find fault, etc. constantly
+  * To cause continual discomfort, pain, etc.
+  * A small saddle horse; pony
+  * A horse that is worn-out, old, etc.
+  * A racehorse, esp. an inferior one
+  
+- [**RASH**]()
+  * To hasty or incautious in acting or speaking; reckless, acting without due consideration or thought; impetuous
+  * Characterized by too great haste or recklessness
+  * Bringing quick results
+
+- [**WILLING**]()
+  * Favorably disposed or consenting (to do something specified or implied)
+  * Acting, giving, etc. readily and cheerfully
+  * Done, given, etc. readily or gladly; voluntary
+
+- [**POINT OUT**]()
+  * To indicate or specify
+  * Notice
+  
+- [**IGNITE**]()
+  * To set fire to; cause to burn,to catch fire
+  * To heat to a great degree; make glow with heat
+  * To arouse the feelings of; excite,to stimulate or provoke 
+
+- [**STEP IN**]()
+  * To intervene or involve oneself, esp dramatically or at a senior level
+  * Put on by being stepped into; without fastenings
+  * Engaging automatically when the boot is positioned on the ski
+  * A step-in garment, esp underwear 
+
+- [**LOOK UP**]()
+  * To discover (something required to be known) by resorting to a work of reference, such as a dictionary
+  * To pay a visit to; call on
+  * To get better; improve, to increase, as in quality or value
+  * To have respect (for)
 
 
 
