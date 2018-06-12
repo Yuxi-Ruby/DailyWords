@@ -1,1 +1,1 @@
-asdasd
+You might know this from school or university, you hand in your homework or an assignment (In other words, you have to give it to your teacher). IT is the same in business, if you are preparing a report or an analysis for your boss, you have to hand it in, in other words, give it to your boss! 
