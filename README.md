@@ -6,23 +6,65 @@ compilation of all Daily words, given us by [Veronica](http://github.com/vlondon
 - [**HAND IN:**]() If you are preparing a report or an analysis for your boss, you have to hand it in, in other words, give it to your boss
 - [**CARRY OUT:**]() This is a formal way to say “do”, others synonyms are perform and conduct.
 - [**GET AHEAD:**]() If you get ahead you have planned for the next few days or next week. You’ve planned, you’ve scheduled and you are prepared for what is coming
+  * To advance or attain success
+  * To be successful; prosper
+  * To surpass or excel
+
 - [**CATCH UP:**]() The opposite of get ahead is to catch up and this is when you are behind schedule, you’re doing things today that you should have done yesterday or last week. So, it’s not a good situation to be in if you always have to catch up.
 - [**KEEP UP WITH:**]() If you keep up with something it means that you stay up to date with something.
+  * To maintain in good order or condition 
+  * To continue; not stop or end
+  * To maintain the pace; not lag behind
+  * To remain informed about
 - [**SPEAK UP:**]() Speak up has two meanings, the first meaning is to speak more loudly or it is to defend what you believe is right.
+  * To speak more loudly
+  * To state one's beliefs, objections, etc, bravely and firmly
 - [**KNUCKLE DOWN:**]() This phrasal verb means that you don’t get distracted but you focus and work hard. If someone knuckles down, they begin to work or study very hard, especially after a period when they have done very little work.
+  * To apply oneself diligently
+  * To rest the knuckles on the ground in shooting a marble
+  * To work energetically or seriously
 - [**SLIP UP:**]() If you slip up, you make a small or unimportant mistake.
+  * To make a blunder or mistake; err
+  * To fall over
+  * A mistake, blunder, or mishap
+  * An error or oversight
+  * An unlucky happening; mishap
 - [**TAKE ON:**]() Take on means you accept a new responsibility, you accept a new position or a new client. 
 If you take on a job or responsibility, especially a difficult one, you accept it.
+  * To employ or hire
+  * To assume or acquire
+  * To agree to do; undertake,to begin to do (a task, etc.)
+  * To compete against, oppose, or fight
+  * To exhibit great emotion, esp grief
+  * To acquire; assume (form, quality, etc.)
 - [**PULL TOGETHER:**]() Teamwork is always a common theme in a job , and pull together is related to teamwork.
+  * To cooperate or work harmoniously
+  * Pull oneself together
 - [**PUSH THE ENVELOPE:**]() 
   * To attempt to extend the current limits of performance. 
   * To innovate, or go beyond commonly accepted boundaries.
 - [**TAKE FOR GRANTED:**]() When you never think about something because you believe it will always be available or stay exactly the same, it is when you take  it for granted.
+  * To accept or assume without question
+  * To fail to appreciate the value, merit, etc, of (a person)
+  * To consider as true, already settled, requiring no special attention, etc.; accept as a matter of course
 - [**GO MUCH ON:**]() To approve of or be in agreement with (something): usually used in the negative(to dislike something).
+  * To care for; like
+  * To dislike something
+
 - [**CHEER ON:**]() When you cheer someone on, you shout loudly in order to encourage them.
 - [**CHEER UP:**]() When you cheer up or when something cheers you up, you stop feeling depressed and become more cheerful. It can mean to try to make someone happier.
 - [**COME UP:**]() If you come up with a plan or idea, you think of it and suggest. To bring up a topic, or when something happens unexpectedly.
+  * To think of an idea.
+  * To propose, produce, find, suggest, etc
+  * To bring up a topic, or when something happens unexpectedly
+
 - [**CALL OFF:**]() If you call off an event that has been planned, you cancel it.
+  * To cancel something.
+  * To order away; divert
+  * To read aloud in order from a list
+  * To cancel (a scheduled event)
+  * To stop (something) or give the order to stop
+
 - [**FILL IN:**]() 
   * To fill with some substance. 
   * To make complete by inserting or supplying something.
