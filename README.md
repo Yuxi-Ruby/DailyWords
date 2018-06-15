@@ -161,8 +161,24 @@ If you take on a job or responsibility, especially a difficult one, you accept i
   * To pay a visit to; call on
   * To get better; improve, to increase, as in quality or value
   * To have respect (for)
+  
+- [**WARM UP**]()
 
+  * To make or become warm or warmer
+  * To exercise in preparation for and immediately before a game, contest, or more vigorous exercise
+  * To get ready for something important; prepare
+  * To run or operate (an engine, etc) until the normal working temperature or condition is attained, or (of an engine, etc) to undergo this process
+  * To make or become more animated or enthusiastic
+  * To reheat (already cooked food) or (of such food) to be reheated
+  * To make (an audience) relaxed and receptive before a show, television comedy show
+  * Preparation or practice for activity or competition
+  * Preparatory; trial
+  
+- [**WONDER**]()
 
-
-
+  * Person, thing, or event that causes astonishment and admiration; prodigy
+  * The feeling of surprise, admiration, and awe aroused by something strange, unexpected, incredible, etc.
+  * A miraculous or apparently miraculous thing or act; miracle
+  * To be seized or filled with wonder; feel amazement
+  * To have curiosity, sometimes mingled with doubt
 
