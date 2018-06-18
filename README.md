@@ -174,11 +174,16 @@ If you take on a job or responsibility, especially a difficult one, you accept i
   * Preparation or practice for activity or competition
   * Preparatory; trial
   
-- [**WONDER**]()
-
+- [**WONDER**](https://github.com/Yuxi-Ruby/DailyWords/blob/master/words/WONDER.md)
   * Person, thing, or event that causes astonishment and admiration; prodigy
   * The feeling of surprise, admiration, and awe aroused by something strange, unexpected, incredible, etc.
   * A miraculous or apparently miraculous thing or act; miracle
   * To be seized or filled with wonder; feel amazement
   * To have curiosity, sometimes mingled with doubt
+
+- [**AIM**](https://github.com/Yuxi-Ruby/DailyWords/blob/master/words/AIM.md)
+  * To point (a weapon) or direct (a blow, remark, etc.) so as to hit
+  * To direct (one's efforts)
+  * To try or intend (to do or be something), to propose
+  * To guess or conjecture
 
